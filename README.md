@@ -3,7 +3,7 @@
 This repository is the starter code for Assignment 1 - Zoo.
 
 ### Live Link
-[Website link](https://johnnylaicode.github.io/zoo-starter-code/)
+[Website link](https://nikkun1028.github.io/Assignment1/)
 
 ----------
 ### 2. Use the information below to ***clone*** the starter codebase to your local machine

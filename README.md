@@ -1,4 +1,4 @@
-# Assignment1 Zoo
+# Assignment 1 Zoo
 
 Rei Imai - nikkun1028
 

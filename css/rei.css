@@ -2,6 +2,13 @@ body{
     font-family:Arial, Helvetica, sans-serif;
     background-color: lightcyan;
     text-align: center;
+    
+    border:10px solid rgb(250, 126, 110);
+}
+
+
+h3{
+    color:rgb(59, 26, 26);
 }
 
 img{

@@ -2,7 +2,7 @@
 
 Rei Imai - nikkun1028
 
-[Website link](https://nikkun1028.github.io/Assignment1/)
+[Website link](https://nikkun1028.github.io/Assignment1/homepage.html)
 
 
 # Requirements

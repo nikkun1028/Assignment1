@@ -1,0 +1,9 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(185, 246, 248);
+    text-align: center;
+}
+
+li{
+    padding: 10px;
+}

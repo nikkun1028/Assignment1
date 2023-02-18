@@ -3,3 +3,14 @@ body{
     background-color: lightcyan;
     text-align: center;
 }
+
+img{
+    width: 98%;
+}
+
+
+li{
+    padding: 10px;
+    background-color: rgb(190, 223, 231);
+    margin: 1em;
+}
